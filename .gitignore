@@ -1,0 +1,28 @@
+# Dependency directories
+node_modules/
+
+# Production build directory
+dist/
+
+# Environment configuration files
+.env
+
+# IDE specific files
+.idea/
+*.sublime-workspace
+
+# Operating system generated files
+.DS_Store
+Thumbs.db
+
+# Build and test directories
+coverage/
+*.log
+
+# Specific files that may contain sensitive information or local configurations
+config.js
+
+# TypeScript compiled files
+*.js
+*.js.map
+*.d.ts
